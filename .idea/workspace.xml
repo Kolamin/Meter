@@ -23,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1TbUjScRt367XJLC4CcCffz5SZ8" />
   <component name="ProjectViewState">
@@ -115,9 +116,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="853" height="307" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1573736788523" />
-    <state x="936" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1573735305558">
+    <state x="936" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1573738458668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="936" y="340" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1573735305558" />
+    <state x="936" y="340" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1573738458668" />
+    <state x="1038" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1573738476889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1038" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1573738476889" />
   </component>
 </project>
